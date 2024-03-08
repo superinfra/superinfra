@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @superinfra
 - 👀 I’m interested in Roblox development
-- 🌱 I’m currently learning the CaptureAPI
+- 🌱 I’m currently learning LinearVelocity
 - 📫 My Roblox account is Ohio_trouble350
 - ⚡ Fun fact: I have a Github account (no way!)
 
